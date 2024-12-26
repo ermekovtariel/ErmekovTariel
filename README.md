@@ -36,12 +36,6 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -75,6 +69,6 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 </div>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermekovtariel&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ermekovtariel&show_icons=true&theme=radical" height="150" alt="stats graph"  />
 </div>
 ###
