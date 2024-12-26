@@ -29,18 +29,10 @@ professional growth, I excel in teamwork and can also make significant individua
 My core skills include:
 <br></br>
 <b>Frontend:</b> React, Next.js, TypeScript, Redux (thunk, saga, toolkit), JavaScript (with ES6), React Jquery, HTML, CSS,
-Sass-Less, Tailwind, Bootstrap, Bulma, Storybook, Firebase, D3, SDK integration, Styled-components, MobX, RTK-
-query, Vue, Vuex, AntDesign, Material-UI, Framer-Motion, React-Spring, Gsap, Chakra-UI, Leaflet, ThreeJs, Atomic
-Design, Feature-sliced-design
+Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign, Material-UI, Framer-Motion, React-Spring, Leaflet.
 <br></br>
-<b>Other:</b> Git, Gitlab, Bitbucket, Github, Figma, Adobe XD, Photoshop
+<b>Other:</b> Git, Gitlab, Github, Figma, Adobe XD, Photoshop
 </p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
 ###
 
@@ -83,7 +75,7 @@ Design, Feature-sliced-design
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=etb)
 </div>
 
 ###
