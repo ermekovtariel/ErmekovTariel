@@ -36,7 +36,7 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -61,7 +61,7 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 
 ###
 
-<h3 align="left">🔥   Моя статистика в GitLub:</h3>
+<h3 align="left">🔥  My statistics in GitLub:</h3>
 
 ###
 
