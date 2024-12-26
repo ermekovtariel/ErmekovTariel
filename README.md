@@ -68,3 +68,4 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 <div align="center">
   <img src="./assets/gitlub.png" height="150" alt="stats graph"  />
 </div>
+<img src="https://github-profile-trophy.vercel.app/?username=ermekovtariel&column=-1" height="150" alt="stats graph"  />
