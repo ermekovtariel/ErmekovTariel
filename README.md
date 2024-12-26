@@ -75,7 +75,7 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 ###
 
 <div align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=etb" height="150" alt="stats graph"  />
+  <img src="./assets/gitlub.png" height="150" alt="stats graph"  />
 </div>
 
 ###
