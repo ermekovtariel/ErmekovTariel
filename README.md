@@ -39,9 +39,7 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
 <h3 align="left">🛠 Technologies:</h3>
 
 ###
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermekovtariel&theme=github_dark" height="150"  alt="stats graph"  />
-<div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +58,9 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermekovtariel&theme=github_dark" height="150"  alt="stats graph"  />
+<div>
 
 ###
 
