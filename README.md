@@ -58,17 +58,13 @@ Sass-Less, Tailwind, Bootstrap, Firebase,Styled-components, RTK-query, AntDesign
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
+
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   Моя статистика в GitLub:</h3>
 
 ###
 
 <div align="center">
   <img src="./assets/gitlub.png" height="150" alt="stats graph"  />
 </div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ermekovtariel&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-</div>
-###
